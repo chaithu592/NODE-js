@@ -1,5 +1,6 @@
 {
   "name": "node-js",
+  "type":"module",
   "version": "1.0.0",
   "main": "index1.js",
   "scripts": {
@@ -16,5 +17,8 @@
     "url": "https://github.com/chaithu592/NODE-js/issues"
   },
   "homepage": "https://github.com/chaithu592/NODE-js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
