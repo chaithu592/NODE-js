@@ -1,6 +1,6 @@
 {
   "name": "node-js",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "main": "index1.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/chaithu592/NODE-js#readme",
   "description": "",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "express": "^5.2.1"
   }
 }
